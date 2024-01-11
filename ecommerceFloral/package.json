@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/material": "^5.13.5",
+    "install": "^0.13.0",
+    "npm": "^9.7.1",
+    "sweetalert2": "^11.6.13",
+    "uuid": "^9.0.0"
+  }
+}

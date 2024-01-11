@@ -1,0 +1,25 @@
+.slide-enter {
+  opacity: 0;
+  transform: translateX(-50px);
+}
+
+.slide-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 800ms, transform 500ms;
+}
+
+.slide-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.slide-exit-active {
+  opacity: 0;
+  transform: translateX(-800px);
+  transition: opacity 500ms, transform 500ms;
+}
+
+span.MuiFormControlLabel-label {
+  width: 100%;
+}
