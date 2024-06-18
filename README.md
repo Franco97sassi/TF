@@ -1,4 +1,8 @@
-﻿# Todo Floral
+ <a href="https://www.todofloral.com/">
+
+ <img src="https://i.imgur.com/tgsdviP.png" alt="Fondo" width="100%" />
+</a>
+ # Todo Floral
  
 An all-encompassing e-commerce platform catering to a flower shop, event organization services, and snack sales.
 
