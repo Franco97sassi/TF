@@ -4,7 +4,7 @@
 
  <img src="https://i.imgur.com/tgsdviP.png" alt="Fondo" width="100%" />
 </a>
-  
+## Description
 An all-encompassing e-commerce platform catering to a flower shop, event organization services, and snack sales.
 
 ## Installation
