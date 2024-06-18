@@ -18,7 +18,6 @@ An all-encompassing e-commerce platform catering to a flower shop, event organiz
 4. Start the application in development mode:
    - npm run dev
   
-     
  ## Key Features
 - **Products:**
   Flowers available for purchase in various colors and quantities.
